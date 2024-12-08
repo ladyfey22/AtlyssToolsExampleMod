@@ -203,7 +203,7 @@
   "_attackForceApply": 0.0,
   "_attackForceDampen": 120.0,
   "_attackForceInputInfluence": false,
-  "_castEffectCollection": "atlysstoolsexample:ScriptableStatusCondition/Hug",
+  "_castEffectCollection": "_skill/00_casteffects/castEffect_mystic",
   "_useGlyphEffect": true,
   "_skillChargeAnimation": "Omni",
   "_skillCastAnimation": "Omni",
